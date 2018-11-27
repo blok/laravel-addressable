@@ -1,9 +1,9 @@
 # Blok Laravel Addressable
 
-[![Build Status](https://img.shields.io/travis/faustbrian/Laravel-Addressable/master.svg?style=flat-square)](https://travis-ci.org/faustbrian/Laravel-Addressable)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/faustbrian/laravel-addressable.svg?style=flat-square)]()
-[![Latest Version](https://img.shields.io/github/release/faustbrian/Laravel-Addressable.svg?style=flat-square)](https://github.com/faustbrian/Laravel-Addressable/releases)
-[![License](https://img.shields.io/packagist/l/faustbrian/Laravel-Addressable.svg?style=flat-square)](https://packagist.org/packages/faustbrian/Laravel-Addressable)
+[![Build Status](https://img.shields.io/travis/blok/Laravel-Addressable/master.svg?style=flat-square)](https://travis-ci.org/blok/Laravel-Addressable)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/blok/laravel-addressable.svg?style=flat-square)]()
+[![Latest Version](https://img.shields.io/github/release/blok/Laravel-Addressable.svg?style=flat-square)](https://github.com/blok/Laravel-Addressable/releases)
+[![License](https://img.shields.io/packagist/l/blok/Laravel-Addressable.svg?style=flat-square)](https://packagist.org/packages/blok/Laravel-Addressable)
 
 This is a fork of Faust Brian Laravel Addressable to make it work with 5.5 LTS version of Laravel. All credits go to him.
 

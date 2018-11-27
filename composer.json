@@ -1,0 +1,54 @@
+{
+    "name": "blok/laravel-addressable",
+    "description": "Addressable Polymorphic Eloquent Models for Laravel 5",
+    "keywords": ["laravel", "framework", "Laravel-Addressable", "Laravel Addressable", "Brian Faust", "Blok"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Faust",
+            "email": "hello@brianfaust.me",
+            "homepage": "https://brianfaust.me"
+        },
+        {
+            "name": "Daniel Sum",
+            "email": "daniel@cherrypulp.com",
+            "homepage": "https://www.cherrypulp.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "illuminate/database": "5.*",
+        "mledoze/countries": "^4.0"
+    },
+    "require-dev": {
+        "graham-campbell/testbench": "^5.0",
+        "mockery/mockery": "^1.0",
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blok\\Addressable\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Blok\\Tests\\Addressable\\": "tests"
+        }
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.0-dev"
+        },
+        "laravel": {
+            "providers": [
+                "Blok\\Addressable\\AddressableServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

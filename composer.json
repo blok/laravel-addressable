@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.1",
         "illuminate/database": "5.*",
-        "mledoze/countries": "^4.0"
+        "mledoze/countries": "*"
     },
     "require-dev": {
         "graham-campbell/testbench": "^5.0",
